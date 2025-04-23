@@ -1,0 +1,5 @@
+Debug/
+.settings/
+*Debug.launch
+*generate_report*
+.ai/
